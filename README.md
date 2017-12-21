@@ -1,2 +1,2 @@
 # Battleship
-Battleship game in Pascal
+Battleship game created in Pascal for my studies.
